@@ -1,6 +1,6 @@
 {
   "name": "never-gonna-give-you-up",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Because you need to play Rick Astley from your terminal",
   "main": "index.js",
   "bin": {
