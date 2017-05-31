@@ -1,0 +1,33 @@
+{
+  "name": "never-gonna-give-you-up",
+  "version": "0.0.0",
+  "description": "Because you need to play Rick Astley from your terminal",
+  "main": "index.js",
+  "bin": {
+    "rickroll": "index.js"
+  },
+  "keywords": [
+    "rickroll",
+    "rick",
+    "astley",
+    "sine",
+    "sine-wave",
+    "audio",
+    "pcm",
+    "webaudio",
+    "audiojs",
+    "audio",
+    "sound"
+  ],
+  "author": "Christopher Hiller <boneskull@boneskull.com> (https://boneskull.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "audio-generator": "^2.1.2",
+    "audio-speaker": "^1.5.0",
+    "octavian": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boneskull/never-gonna-give-you-up.git"
+  }
+}
